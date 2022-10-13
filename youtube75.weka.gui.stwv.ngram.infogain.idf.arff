@@ -1,0 +1,1473 @@
+@relation '_Users_ivelez_Google Drive_tesis_datasets_youtube_maria_75\%_youtube_messages-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-L-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.NGramTokenizer -max 3 -min 1 -delimiters \" \\r \\t.,;:\\\'\\\"()?!<>+\\\\[\\\\]@$#-*/\\\%\\\"\"-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T 0.0 -N -1'
+
+@attribute com numeric
+@attribute subscribe numeric
+@attribute my numeric
+@attribute channel numeric
+@attribute please numeric
+@attribute http numeric
+@attribute 'my channel' numeric
+@attribute 'check out' numeric
+@attribute out numeric
+@attribute www numeric
+@attribute check numeric
+@attribute https numeric
+@attribute 'subscribe to' numeric
+@attribute 'out my' numeric
+@attribute 'check out my' numeric
+@attribute 'to my' numeric
+@attribute 'http www' numeric
+@attribute me numeric
+@attribute guys numeric
+@attribute if numeric
+@attribute and numeric
+@attribute 'subscribe to my' numeric
+@attribute 'to my channel' numeric
+@attribute 'like this comment' numeric
+@attribute to numeric
+@attribute hey numeric
+@attribute song numeric
+@attribute 'https www' numeric
+@attribute facebook numeric
+@attribute 'this comment' numeric
+@attribute 'hey guys' numeric
+@attribute free numeric
+@attribute follow numeric
+@attribute 'please subscribe' numeric
+@attribute comment numeric
+@attribute a numeric
+@attribute you numeric
+@attribute on numeric
+@attribute for numeric
+@attribute videos numeric
+@attribute help numeric
+@attribute amp numeric
+@attribute 'if you' numeric
+@attribute 'this song' numeric
+@attribute will numeric
+@attribute do numeric
+@attribute love numeric
+@attribute 'facebook com' numeric
+@attribute sub numeric
+@attribute our numeric
+@attribute give numeric
+@attribute is numeric
+@attribute that numeric
+@attribute thanks numeric
+@attribute watch numeric
+@attribute 'i love' numeric
+@attribute subscribers numeric
+@attribute new numeric
+@attribute click numeric
+@attribute 'follow me' numeric
+@attribute channel﻿ numeric
+@attribute 'on my' numeric
+@attribute 'channel i' numeric
+@attribute 'can you' numeric
+@attribute 'help me' numeric
+@attribute 'my channel﻿' numeric
+@attribute href= numeric
+@attribute everyone numeric
+@attribute play numeric
+@attribute 'please check' numeric
+@attribute 'comment if' numeric
+@attribute 'please check out' numeric
+@attribute share numeric
+@attribute 'this comment if' numeric
+@attribute ll numeric
+@attribute 'check my' numeric
+@attribute u numeric
+@attribute 'i will' numeric
+@attribute this numeric
+@attribute views numeric
+@attribute like numeric
+@attribute 'br a' numeric
+@attribute vote numeric
+@attribute 'www facebook' numeric
+@attribute 'br a href=' numeric
+@attribute would numeric
+@attribute plz numeric
+@attribute 'www facebook com' numeric
+@attribute 'check out our' numeric
+@attribute 'subscribe to me' numeric
+@attribute 'you like' numeric
+@attribute 'channel and' numeric
+@attribute 'channel please' numeric
+@attribute 'at my' numeric
+@attribute 'follow me on' numeric
+@attribute 'my channel please' numeric
+@attribute minecraft numeric
+@attribute 'my videos' numeric
+@attribute 'out our' numeric
+@attribute 'on twitter' numeric
+@attribute twitter numeric
+@attribute php numeric
+@attribute 'on my channel' numeric
+@attribute 'a ﻿' numeric
+@attribute 'if u' numeric
+@attribute 'https www facebook' numeric
+@attribute 'google com' numeric
+@attribute eminem numeric
+@attribute 'like this' numeric
+@attribute up numeric
+@attribute 'a href=' numeric
+@attribute google numeric
+@attribute gt numeric
+@attribute 'to me' numeric
+@attribute 'i love this' numeric
+@attribute 'song ﻿' numeric
+@attribute can numeric
+@attribute m numeric
+@attribute 'love this song' numeric
+@attribute 'www gofundme' numeric
+@attribute covers numeric
+@attribute 'www gofundme com' numeric
+@attribute 'will subscribe' numeric
+@attribute 'please subscribe to' numeric
+@attribute 'href= https' numeric
+@attribute 'http www gofundme' numeric
+@attribute 'https m' numeric
+@attribute 'http hackfbaccountlive com' numeric
+@attribute 'hackfbaccountlive com' numeric
+@attribute 'http hackfbaccountlive' numeric
+@attribute please﻿ numeric
+@attribute 'me on twitter' numeric
+@attribute hackfbaccountlive numeric
+@attribute 'check it out' numeric
+@attribute projects numeric
+@attribute 'com projects' numeric
+@attribute 'my youtube' numeric
+@attribute 'my youtube channel' numeric
+@attribute co numeric
+@attribute 'my channel i' numeric
+@attribute 'check it' numeric
+@attribute chance numeric
+@attribute 'please i' numeric
+@attribute 'channel for' numeric
+@attribute plus numeric
+@attribute download numeric
+@attribute 'gofundme com' numeric
+@attribute gofundme numeric
+@attribute 'it out' numeric
+@attribute 'plz subscribe' numeric
+@attribute 'i will subscribe' numeric
+@attribute 'subscribe and' numeric
+@attribute vids numeric
+@attribute 'subscribe my' numeric
+@attribute 'subscribe back' numeric
+@attribute 'tsu co' numeric
+@attribute apps numeric
+@attribute take numeric
+@attribute suscribe numeric
+@attribute 'subscribers i' numeric
+@attribute visit numeric
+@attribute tsu numeric
+@attribute billion numeric
+@attribute 'i 39' numeric
+@attribute money numeric
+@attribute 'and i will' numeric
+@attribute look numeric
+@attribute 'to the' numeric
+@attribute 'for no' numeric
+@attribute 'of the' numeric
+@attribute 'best song' numeric
+@attribute she numeric
+@attribute 'and i' numeric
+@attribute song﻿ numeric
+@attribute megan numeric
+@attribute 'i love you' numeric
+@attribute made numeric
+@attribute almost numeric
+@attribute best numeric
+@attribute more numeric
+@attribute mi numeric
+@attribute 'tell me' numeric
+@attribute 'store apps' numeric
+@attribute 'com store apps' numeric
+@attribute tell numeric
+@attribute subscribe﻿ numeric
+@attribute 'facebook com pages' numeric
+@attribute 'it would' numeric
+@attribute 'comment for' numeric
+@attribute 'this comment for' numeric
+@attribute 'subscribe me' numeric
+@attribute 'com store' numeric
+@attribute 'thanks ﻿' numeric
+@attribute 'com s' numeric
+@attribute ur numeric
+@attribute org numeric
+@attribute 'hi everyone' numeric
+@attribute 'com pages' numeric
+@attribute these numeric
+@attribute promise numeric
+@attribute 'google com store' numeric
+@attribute 'am a' numeric
+@attribute 'hey everyone' numeric
+@attribute 'comment for no' numeric
+@attribute 'a new' numeric
+@attribute 'comment if you' numeric
+@attribute 'out my youtube' numeric
+@attribute 'do not' numeric
+@attribute 'm facebook com' numeric
+@attribute 'subscribe ﻿' numeric
+@attribute 'details id=com' numeric
+@attribute 'm facebook' numeric
+@attribute 'out please' numeric
+@attribute 'do you like' numeric
+@attribute 't miss out' numeric
+@attribute enjoy numeric
+@attribute 'guys please' numeric
+@attribute 't miss' numeric
+@attribute 'don t miss' numeric
+@attribute 'guys can' numeric
+@attribute 'guys can you' numeric
+@attribute 'our channel' numeric
+@attribute '39 ll' numeric
+@attribute details numeric
+@attribute 'subscribe my channel' numeric
+@attribute 'up for' numeric
+@attribute 'subscribe to me﻿' numeric
+@attribute 'please help' numeric
+@attribute 'look at my' numeric
+@attribute 'out ﻿' numeric
+@attribute 'look at' numeric
+@attribute 'go to' numeric
+@attribute cover numeric
+@attribute 'play google com' numeric
+@attribute 'play google' numeric
+@attribute trying numeric
+@attribute water numeric
+@attribute store numeric
+@attribute page numeric
+@attribute pages numeric
+@attribute 'trying to' numeric
+@attribute 'miss out' numeric
+@attribute youtuber numeric
+@attribute 'you hate' numeric
+@attribute 'you could' numeric
+@attribute 'https play google' numeric
+@attribute 'indiegogo com projects' numeric
+@attribute 'the water' numeric
+@attribute 'indiegogo com' numeric
+@attribute 'watch my' numeric
+@attribute 'you do' numeric
+@attribute 'www indiegogo' numeric
+@attribute 'https play' numeric
+@attribute 'if you do' numeric
+@attribute 'https m facebook' numeric
+@attribute 'my channel and' numeric
+@attribute indiegogo numeric
+@attribute 'give it' numeric
+@attribute 'i make' numeric
+@attribute 'would be' numeric
+@attribute 'in my channel' numeric
+@attribute 'my first' numeric
+@attribute 'https www indiegogo' numeric
+@attribute 'www tsu co' numeric
+@attribute 'check my channel' numeric
+@attribute 'i 39 ll' numeric
+@attribute 'i am a' numeric
+@attribute 'can you please' numeric
+@attribute 'https www tsu' numeric
+@attribute 'my music' numeric
+@attribute 'if you could' numeric
+@attribute been numeric
+@attribute 'to me﻿' numeric
+@attribute '- gt' numeric
+@attribute '100 subscribers' numeric
+@attribute 'visit my' numeric
+@attribute 'for the' numeric
+@attribute 'channel to' numeric
+@attribute 'apps details id=com' numeric
+@attribute 'i rap' numeric
+@attribute 'you please' numeric
+@attribute 'apps details' numeric
+@attribute 'and check' numeric
+@attribute id=com numeric
+@attribute 'and check out' numeric
+@attribute 'for your' numeric
+@attribute 'www tsu' numeric
+@attribute instagram numeric
+@attribute 'my channel ﻿' numeric
+@attribute 'www indiegogo com' numeric
+@attribute 'will subscribe back' numeric
+@attribute 'will be' numeric
+@attribute 'store apps details' numeric
+@attribute still numeric
+@attribute 'this song ﻿' numeric
+@attribute '2 billion' numeric
+@attribute 'is that' numeric
+@attribute lost numeric
+@attribute 'me on' numeric
+@attribute need numeric
+@attribute 'a href= http' numeric
+@attribute 'href= http' numeric
+@attribute 'youtube channel' numeric
+@attribute 2 numeric
+@attribute years numeric
+@attribute old numeric
+@attribute 'views ﻿' numeric
+@attribute 'the views' numeric
+@attribute 'to check the' numeric
+@attribute fox numeric
+@attribute 'ever ﻿' numeric
+@attribute 'love your' numeric
+@attribute charlie numeric
+@attribute 'charlie from' numeric
+@attribute views﻿ numeric
+@attribute 'one of' numeric
+@attribute d﻿ numeric
+@attribute 'this video is' numeric
+@attribute 'this in' numeric
+@attribute 'world cup' numeric
+@attribute 'to be' numeric
+@attribute 'check the views' numeric
+@attribute 'like this song' numeric
+@attribute 'video is' numeric
+@attribute guy numeric
+@attribute ago numeric
+@attribute looks numeric
+@attribute 'megan fox' numeric
+@attribute 'song so' numeric
+@attribute came numeric
+@attribute super numeric
+@attribute xd﻿ numeric
+@attribute 'the most' numeric
+@attribute 'love it' numeric
+@attribute men numeric
+@attribute 'me ﻿' numeric
+@attribute 'to do' numeric
+@attribute 'mtvema com' numeric
+@attribute 'me what' numeric
+@attribute 'to go' numeric
+@attribute syndrome numeric
+@attribute 'to help my' numeric
+@attribute month numeric
+@attribute 'suscribe my channel' numeric
+@attribute 'to dance' numeric
+@attribute 't be' numeric
+@attribute 'me out' numeric
+@attribute 'me if' numeric
+@attribute 't be disappointed' numeric
+@attribute 'me go' numeric
+@attribute 'me reach' numeric
+@attribute mtvema numeric
+@attribute 'me for' numeric
+@attribute mtv numeric
+@attribute 'me to' numeric
+@attribute 'miss out please' numeric
+@attribute link numeric
+@attribute 't like' numeric
+@attribute 'the water in' numeric
+@attribute 'it does' numeric
+@attribute 'is no' numeric
+@attribute 'their own' numeric
+@attribute 'that you' numeric
+@attribute iphone numeric
+@attribute 'their own songs' numeric
+@attribute 'then why' numeric
+@attribute 'it does help' numeric
+@attribute 'then why not' numeric
+@attribute itunes numeric
+@attribute 'it would be' numeric
+@attribute 'the lexis band' numeric
+@attribute 'it to' numeric
+@attribute 'that you can' numeric
+@attribute 'the voice' numeric
+@attribute 'make money' numeric
+@attribute 'the toilet so' numeric
+@attribute 'the song﻿' numeric
+@attribute 'if ur' numeric
+@attribute 'the new' numeric
+@attribute 'id=com rapid facebook' numeric
+@attribute 'id=com rapid' numeric
+@attribute 'the toilet' numeric
+@attribute 'if you like' numeric
+@attribute 'if you piss' numeric
+@attribute ill numeric
+@attribute 'in the toilet' numeric
+@attribute il numeric
+@attribute 'if you want' numeric
+@attribute 'if your' numeric
+@attribute 'just started' numeric
+@attribute 'just takes' numeric
+@attribute 'just takes one' numeric
+@attribute katycats numeric
+@attribute 'lt 3 br' numeric
+@attribute 'takes one' numeric
+@attribute 'lot just takes' numeric
+@attribute 'takes one click' numeric
+@attribute talent numeric
+@attribute ly numeric
+@attribute 'ly a' numeric
+@attribute 'ly http' numeric
+@attribute magicdroid﻿ numeric
+@attribute 'make minecraft' numeric
+@attribute 'm a' numeric
+@attribute 'ly http adf' numeric
+@attribute 'take a' numeric
+@attribute 'lot just' numeric
+@attribute 'll subscribe' numeric
+@attribute 'll give' numeric
+@attribute lexis numeric
+@attribute 'lexis band' numeric
+@attribute left numeric
+@attribute lights numeric
+@attribute l numeric
+@attribute 'lexis band will' numeric
+@attribute 'there is no' numeric
+@attribute 'music channel the' numeric
+@attribute 'like music then' numeric
+@attribute 'like my' numeric
+@attribute 'tell me what' numeric
+@attribute 'like and' numeric
+@attribute 'like music' numeric
+@attribute 'music channel' numeric
+@attribute 'we just' numeric
+@attribute 'music then' numeric
+@attribute shhort numeric
+@attribute 'subscribe if' numeric
+@attribute 'you won' numeric
+@attribute shared numeric
+@attribute 'subscribe i' numeric
+@attribute 'share ﻿' numeric
+@attribute 'your vids' numeric
+@attribute 'version of' numeric
+@attribute 'very nice' numeric
+@attribute 'you piss' numeric
+@attribute 'you want' numeric
+@attribute 'you re' numeric
+@attribute 'shhort com a' numeric
+@attribute 'you want to' numeric
+@attribute 'shhort com' numeric
+@attribute 'soundcloud com' numeric
+@attribute 'water in the' numeric
+@attribute 'subscribe if you' numeric
+@attribute 'youtube channel i' numeric
+@attribute 'youtuber and' numeric
+@attribute rapid numeric
+@attribute 'rapid facebook magicdroid﻿' numeric
+@attribute 'rapid facebook' numeric
+@attribute put numeric
+@attribute search numeric
+@attribute 'us out a' numeric
+@attribute 'promise i' numeric
+@attribute 'reach 100' numeric
+@attribute 'reach 100 subscribers' numeric
+@attribute read numeric
+@attribute reason﻿ numeric
+@attribute 'rel= nofollow class=' numeric
+@attribute 'subscribe in' numeric
+@attribute 'rel= nofollow' numeric
+@attribute 'subscribe in my' numeric
+@attribute rel= numeric
+@attribute 'you piss next' numeric
+@attribute 'you like music' numeric
+@attribute 'music then why' numeric
+@attribute 'some of' numeric
+@attribute 'vote for' numeric
+@attribute 'visit my channel﻿' numeric
+@attribute 'we have' numeric
+@attribute women numeric
+@attribute 'we are' numeric
+@attribute stuff numeric
+@attribute won numeric
+@attribute 'with a' numeric
+@attribute 'video too' numeric
+@attribute 'why not' numeric
+@attribute 'soon so' numeric
+@attribute 'songs and covers' numeric
+@attribute 'why not check' numeric
+@attribute 'songs and' numeric
+@attribute 'will be uploading' numeric
+@attribute win numeric
+@attribute soundcloud numeric
+@attribute 'so don t' numeric
+@attribute 'so don' numeric
+@attribute 'sub my' numeric
+@attribute 'you check' numeric
+@attribute 'videos i' numeric
+@attribute 'you check my' numeric
+@attribute 'www twitch' numeric
+@attribute 'sub my channel' numeric
+@attribute 'videos and' numeric
+@attribute 'videos on' numeric
+@attribute 'you are watching' numeric
+@attribute 'you all' numeric
+@attribute 'you agree' numeric
+@attribute 'www twitch tv' numeric
+@attribute 'sign up for' numeric
+@attribute 'sign up' numeric
+@attribute sign numeric
+@attribute videos﻿ numeric
+@attribute 'us out' numeric
+@attribute 'popular fast because' numeric
+@attribute 'popular fast' numeric
+@attribute 'nofollow class=' numeric
+@attribute 'not check' numeric
+@attribute 'nofollow class= ot-hashtag' numeric
+@attribute nofollow numeric
+@attribute 'not check out' numeric
+@attribute 'no reason﻿' numeric
+@attribute 'next to the' numeric
+@attribute try numeric
+@attribute 'now https' numeric
+@attribute 'plz subscribe to' numeric
+@attribute 'one click -' numeric
+@attribute ot-hashtag numeric
+@attribute open numeric
+@attribute 'one click' numeric
+@attribute 'soon so don' numeric
+@attribute 'trying to get' numeric
+@attribute 'now https play' numeric
+@attribute 'next to' numeric
+@attribute 'new youtuber and' numeric
+@attribute 'new youtuber' numeric
+@attribute 'to my channel﻿' numeric
+@attribute 'my new' numeric
+@attribute 'my music channel' numeric
+@attribute 'my channel or' numeric
+@attribute 'new music' numeric
+@attribute 'my channel br' numeric
+@attribute 'suscribe my' numeric
+@attribute 'my video' numeric
+@attribute 'to the water' numeric
+@attribute 'my videos ﻿' numeric
+@attribute 'to win' numeric
+@attribute 'too as it' numeric
+@attribute 'too as' numeric
+@attribute name numeric
+@attribute 'toilet so' numeric
+@attribute toilet numeric
+@attribute 'ot-hashtag href=' numeric
+@attribute 'ot-hashtag href= https' numeric
+@attribute 'tv mtvema' numeric
+@attribute 'please don' numeric
+@attribute 'please look' numeric
+@attribute 'please help me' numeric
+@attribute 'subscribe too' numeric
+@attribute 'piss next' numeric
+@attribute 'play ﻿' numeric
+@attribute type numeric
+@attribute uploading numeric
+@attribute 'uploading their' numeric
+@attribute 'please subscribe too' numeric
+@attribute 'uploading their own' numeric
+@attribute 'plz check out' numeric
+@attribute 'plz check' numeric
+@attribute 'water in' numeric
+@attribute 'plus google com' numeric
+@attribute 'plus google' numeric
+@attribute 'piss next to' numeric
+@attribute piss numeric
+@attribute 'our channel for' numeric
+@attribute 'out i' numeric
+@attribute 'out my music' numeric
+@attribute twitch numeric
+@attribute 'out a lot' numeric
+@attribute picture numeric
+@attribute 'out a' numeric
+@attribute 'tv mtvema com' numeric
+@attribute 'out my new' numeric
+@attribute 'twitch tv' numeric
+@attribute 'out our channel' numeric
+@attribute 'out please subscribe' numeric
+@attribute 'subscribe too as' numeric
+@attribute 'own songs and' numeric
+@attribute 'own songs' numeric
+@attribute out﻿ numeric
+@attribute 'out the' numeric
+@attribute 'want you' numeric
+@attribute 'the lexis' numeric
+@attribute 'br and' numeric
+@attribute 'channel the' numeric
+@attribute 'channel thanks ﻿' numeric
+@attribute 'channel the lexis' numeric
+@attribute 'am a new' numeric
+@attribute 'check my videos' numeric
+@attribute 'an iphone' numeric
+@attribute 'check out the' numeric
+@attribute dollars numeric
+@attribute agree numeric
+@attribute 'channel thanks' numeric
+@attribute guys﻿ numeric
+@attribute 'class= ot-hashtag' numeric
+@attribute 'and ill' numeric
+@attribute 'channel or' numeric
+@attribute 'and if' numeric
+@attribute 'and if you' numeric
+@attribute 'and i ll' numeric
+@attribute 'guys subscribe' numeric
+@attribute 'and covers' numeric
+@attribute 'and covers soon' numeric
+@attribute 'guys please check' numeric
+@attribute 'does help us' numeric
+@attribute 'does help' numeric
+@attribute 'adf ly http' numeric
+@attribute 'a new youtuber' numeric
+@attribute class= numeric
+@attribute 'details id=com rapid' numeric
+@attribute 'a mi' numeric
+@attribute 'a lot just' numeric
+@attribute 'adf ly a' numeric
+@attribute 'a chance' numeric
+@attribute 'a href= https' numeric
+@attribute delete numeric
+@attribute 'a rel=' numeric
+@attribute 'a rel= nofollow' numeric
+@attribute 'a sub' numeric
+@attribute adf numeric
+@attribute 'adf ly' numeric
+@attribute disappointed numeric
+@attribute 'help me go' numeric
+@attribute 'help me reach' numeric
+@attribute 'help please' numeric
+@attribute 'help us' numeric
+@attribute 'help us out' numeric
+@attribute 'and u' numeric
+@attribute gun numeric
+@attribute 'and watch' numeric
+@attribute 'be uploading their' numeric
+@attribute friend numeric
+@attribute 'be disappointed' numeric
+@attribute 'be uploading' numeric
+@attribute 'band will be' numeric
+@attribute game numeric
+@attribute band numeric
+@attribute 'band will' numeric
+@attribute family numeric
+@attribute 'fast because' numeric
+@attribute 'for no reason﻿' numeric
+@attribute 'fast because i' numeric
+@attribute 'first video' numeric
+@attribute 'br br a' numeric
+@attribute 'because i' numeric
+@attribute 'br like' numeric
+@attribute 'follow you' numeric
+@attribute 'for free' numeric
+@attribute 'for katy' numeric
+@attribute 'because i rap' numeric
+@attribute back﻿ numeric
+@attribute 'facebook magicdroid﻿' numeric
+@attribute 'and watch my' numeric
+@attribute 'everyone do' numeric
+@attribute 'are watching in' numeric
+@attribute 'channel and i' numeric
+@attribute 'and you' numeric
+@attribute 'google com s' numeric
+@attribute 'getting popular' numeric
+@attribute 'gt gt' numeric
+@attribute 'channel for no' numeric
+@attribute 'channel br' numeric
+@attribute 'everyone do you' numeric
+@attribute 'as it' numeric
+@attribute 'as it does' numeric
+@attribute 'give me' numeric
+@attribute 'getting popular fast' numeric
+@attribute 'go check out' numeric
+@attribute 'give you' numeric
+@attribute 'can you check' numeric
+@attribute 'go check' numeric
+@attribute 'everyone please' numeric
+@attribute ass numeric
+@attribute 'hey guys can' numeric
+@attribute 'help my' numeric
+@attribute 'class= ot-hashtag href=' numeric
+@attribute 'click on the' numeric
+@attribute 'http shhort' numeric
+@attribute company numeric
+@attribute 'http shhort com' numeric
+@attribute 'com a' numeric
+@attribute 'http www twitch' numeric
+@attribute 'http adf ly' numeric
+@attribute 'http adf' numeric
+@attribute contest numeric
+@attribute 'covers soon so' numeric
+@attribute 'href= http adf' numeric
+@attribute 'covers soon' numeric
+@attribute '39 m a' numeric
+@attribute 'href= https plus' numeric
+@attribute 'https plus' numeric
+@attribute 'https plus google' numeric
+@attribute 'https soundcloud' numeric
+@attribute 'i promise' numeric
+@attribute 'i need' numeric
+@attribute '- gt ﻿' numeric
+@attribute -- numeric
+@attribute 'i want you' numeric
+@attribute 'i make minecraft' numeric
+@attribute 'i ll' numeric
+@attribute 'https soundcloud com' numeric
+@attribute 20 numeric
+@attribute 'come and' numeric
+@attribute 17 numeric
+@attribute '-- gt' numeric
+@attribute 'i get' numeric
+@attribute 'how to' numeric
+@attribute '3 br' numeric
+@attribute 'hi everyone do' numeric
+@attribute 'click on' numeric
+@attribute 'click -' numeric
+@attribute 'hi guys' numeric
+@attribute daily numeric
+@attribute 'click - gt' numeric
+@attribute 50 numeric
+@attribute @@class@@ {spam,ham}
+
+@data
+{2 1,20 1,51 1,54 1,249 1,530 1,626 1,649 1,699 1}
+{712 ham}
+{19 1,56 1,274 1,702 1}
+{79 1,179 1,712 ham}
+{2 1,3 1,6 1,7 1,8 1,10 1,13 1,14 1,15 1,20 1,22 1,24 1,91 1,231 1,255 1,282 1,284 1}
+{24 1,26 1,78 1,79 1,304 1,712 ham}
+{23 1,29 1,34 1,78 1,80 1,108 1,130 1}
+{26 1,43 1,46 1,78 1,118 1,712 ham}
+{20 1,31 1,164 1}
+{712 ham}
+{0 1,9 1,11 1,19 1,20 1,27 1,76 1,104 1,134 1,135 1,180 1,194 1,246 1,248 1,251 1,256 1,262 1,289 1,303 1}
+{712 ham}
+{0 1,11 1,20 1,28 1,31 1,51 1,68 1,106 1,111 1,145 1,156 1,182 1,183 1,191 1,200 1,210 1,223 1,233 1,234 1,237 1,245 1,252 1,278 1,281 1,283 1,292 1,379 1,380 1,401 1,432 1,445 1,446 1,447 1,511 1,519 1,606 1,648 1}
+{51 1,171 1,712 ham}
+{185 1}
+{24 1,26 1,43 1,78 1,109 1,712 ham}
+{0 1,20 1,37 1,38 1,45 1,72 1,78 1,82 1,109 1,112 1,337 1,351 1,353 1,392 1,541 1,567 1,612 1,693 1,701 1,709 1}
+{80 1,316 1,712 ham}
+{20 1,28 1,37 1,41 1,72 1,78 1,80 1,238 1,642 1}
+{24 1,26 1,43 1,51 1,52 1,78 1,176 1,296 1,303 1,304 1,712 ham}
+{2 1,8 1,13 1,18 1,19 1,20 1,25 1,35 1,36 1,42 1,50 1,80 1,152 1,257 1,386 1,420 1,431 1}
+{26 1,35 1,78 1,79 1,80 1,108 1,179 1,712 ham}
+{0 1,5 1,38 1,82 1,276 1,337 1,351 1,392 1,465 1,541 1,567 1,645 1}
+{712 ham}
+{25 1,67 1,202 1}
+{2 1,51 1,712 ham}
+{23 1,29 1,34 1,38 1,78 1,80 1,108 1,168 1,188 1,189 1,203 1}
+{304 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,17 1,18 1,24 1,33 1,40 1,190 1,216 1,341 1,354 1,590 1,671 1}
+{45 1,331 1,712 ham}
+{0 1,9 1}
+{52 1,78 1,712 ham}
+{0 1,9 1,11 1,24 1,27 1,28 1,47 1,78 1,80 1,83 1,87 1,105 1,108 1,141 1,186 1,197 1,239 1,363 1,480 1,533 1,585 1}
+{20 1,36 1,107 1,116 1,712 ham}
+{19 1,23 1,29 1,34 1,37 1,70 1,73 1,78 1,80 1,108 1,194 1,377 1}
+{26 1,43 1,51 1,78 1,303 1,712 ham}
+{2 1,7 1,8 1,10 1,13 1,14 1,41 1,53 1,54 1,112 1,232 1,273 1}
+{80 1,712 ham}
+{1 1,12 1,17 1,20 1,24 1,36 1,74 1,80 1,89 1,113 1,172 1,407 1,596 1,696 1}
+{304 1,712 ham}
+{7 1,8 1,10 1,18 1,24 1,25 1,30 1,46 1,78 1,109 1,171 1,344 1,449 1,536 1,703 1}
+{38 1,304 1,712 ham}
+{0 1,2 1,5 1,7 1,8 1,9 1,10 1,13 1,14 1,16 1,26 1,35 1,66 1,81 1,84 1,103 1,110 1,300 1,301 1}
+{712 ham}
+{1 1,2 1,12 1,15 1,18 1,20 1,21 1,24 1,25 1,30 1,44 1,77 1,80 1,122 1,150 1,152 1,154 1,165 1,172 1,290 1,431 1,597 1}
+{712 ham}
+{1 1,4 1,20 1,33 1,35 1,40 1,44 1,57 1,77 1,122 1,150 1,151 1,154 1,165 1,172 1,201 1,204 1,242 1,266 1,290 1,299 1,429 1,444 1,521 1,522 1,583 1,604 1,621 1}
+{20 1,26 1,36 1,38 1,43 1,51 1,78 1,176 1,293 1,304 1,325 1,712 ham}
+{1 1,2 1,12 1,24 1,35 1,44 1,116 1,117 1,163 1,271 1,411 1,468 1}
+{36 1,46 1,712 ham}
+{17 1,20 1,31 1,35 1,40 1,56 1,57 1,64 1,78 1,157 1,274 1,342 1,350 1,405 1,452 1,453 1,527 1,620 1}
+{712 ham}
+{1 1,2 1,3 1,4 1,6 1,33 1,36 1,46 1,153 1,224 1}
+{24 1,52 1,320 1,324 1,712 ham}
+{7 1,8 1,10 1,49 1,88 1,98 1,664 1,667 1}
+{19 1,24 1,35 1,36 1,42 1,51 1,52 1,116 1,712 ham}
+{2 1,15 1,19 1,24 1,36 1,42 1,60 1,65 1,80 1,90 1,96 1,158 1,382 1,523 1}
+{173 1,178 1,319 1,712 ham}
+{117 1}
+{19 1,26 1,36 1,42 1,43 1,78 1,79 1,80 1,329 1,712 ham}
+{38 1,109 1,225 1}
+{20 1,51 1,78 1,177 1,293 1,304 1,305 1,331 1,712 ham}
+{2 1,3 1,4 1,6 1,10 1,20 1,24 1,75 1,92 1,95 1,167 1,178 1,264 1}
+{46 1,311 1,712 ham}
+{2 1,3 1,6 1,48 1,288 1,484 1,489 1}
+{78 1,303 1,712 ham}
+{}
+{24 1,35 1,162 1,177 1,712 ham}
+{5 1,9 1,16 1,24 1,68 1,72 1,195 1,430 1}
+{79 1,162 1,306 1,712 ham}
+{}
+{46 1,55 1,78 1,114 1,173 1,712 ham}
+{3 1,20 1,78 1,79 1,117 1,579 1}
+{0 1,5 1,9 1,16 1,35 1,41 1,54 1,66 1,110 1,178 1,300 1,301 1,303 1,712 ham}
+{17 1,32 1,37 1,59 1,94 1,99 1,100 1,131 1,298 1}
+{36 1,712 ham}
+{0 1,9 1,11 1,27 1,28 1,41 1,47 1,83 1,87 1,101 1,105 1,112 1,656 1}
+{330 1,712 ham}
+{23 1,29 1,34 1,35 1,50 1,74 1,78 1,80 1,108 1,163 1,222 1,257 1,265 1,342 1,408 1}
+{26 1,43 1,78 1,712 ham}
+{18 1,19 1,24 1,26 1,36 1,42 1,43 1,46 1,51 1,78 1,109 1,167 1,178 1,198 1,236 1,247 1,279 1,358 1,375 1,381 1,383 1,385 1,434 1,441 1,461 1,473 1,501 1,502 1,509 1,520 1,531 1,537 1,538 1,546 1,555 1,558 1,559 1,636 1,638 1,641 1,646 1,655 1,663 1}
+{2 1,20 1,51 1,107 1,712 ham}
+{1 1,19 1,36 1,42 1,426 1,442 1,492 1,651 1}
+{46 1,55 1,78 1,114 1,712 ham}
+{1 1,12 1,17 1,19 1,20 1,24 1,36 1,42 1,44 1,45 1,89 1,113 1,207 1,250 1,253 1,387 1,435 1,436 1,438 1,635 1,653 1}
+{297 1,312 1,313 1,712 ham}
+{}
+{712 ham}
+{}
+{80 1,712 ham}
+{17 1,19 1,36 1,42 1,48 1,80 1,173 1,347 1,376 1}
+{26 1,43 1,46 1,55 1,78 1,114 1,118 1,712 ham}
+{23 1,24 1,29 1,34 1,36 1,37 1,78 1,79 1,80 1,108 1,116 1,162 1,494 1,588 1,639 1}
+{2 1,26 1,43 1,78 1,304 1,712 ham}
+{3 1,7 1,8 1,10 1,20 1,35 1,38 1,49 1,88 1,98 1,143 1,144 1,168 1,221 1,363 1,560 1,570 1,585 1,657 1}
+{26 1,43 1,78 1,80 1,108 1,322 1,712 ham}
+{2 1,3 1,6 1,130 1,158 1,343 1,529 1}
+{712 ham}
+{3 1,7 1,8 1,10 1,38 1,49 1,88 1,98 1,143 1,221 1,560 1,570 1}
+{79 1,162 1,177 1,712 ham}
+{9 1,11 1,27 1,138 1,155 1,161 1,164 1,263 1,268 1,286 1}
+{8 1,20 1,35 1,36 1,51 1,171 1,712 ham}
+{1 1,20 1,26 1,46 1,54 1,78 1,80 1,151 1}
+{67 1,712 ham}
+{17 1,24 1,113 1}
+{46 1,55 1,311 1,712 ham}
+{0 1,5 1,9 1,16 1,41 1}
+{712 ham}
+{7 1,8 1,10 1,20 1,51 1,67 1,78 1,172 1,196 1}
+{712 ham}
+{4 1,19 1,23 1,29 1,34 1,36 1,42 1,70 1,73 1,78 1,80 1,108 1,205 1,357 1,492 1,542 1,651 1}
+{36 1,46 1,712 ham}
+{3 1,7 1,8 1,10 1,20 1,24 1,37 1,49 1,51 1,88 1,91 1,98 1,302 1,389 1,423 1,469 1,711 1}
+{330 1,712 ham}
+{2 1,3 1,4 1,6 1,92 1,95 1,158 1,343 1,529 1}
+{712 ham}
+{1 1,12 1,24 1,226 1,272 1}
+{20 1,51 1,174 1,297 1,309 1,324 1,327 1,712 ham}
+{0 1,5 1,20 1,37 1,38 1,82 1,178 1,276 1,353 1}
+{51 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,21 1,22 1,24 1,35 1,36 1,38 1,45 1,109 1,163 1,225 1,413 1,496 1,497 1,498 1,700 1}
+{171 1,712 ham}
+{2 1,19 1,23 1,24 1,29 1,34 1,36 1,38 1,70 1,73 1,76 1,78 1,80 1,104 1,108 1,116 1,642 1}
+{78 1,318 1,712 ham}
+{0 1,5 1,25 1,54 1,67 1,78 1,202 1}
+{20 1,29 1,34 1,38 1,44 1,78 1,80 1,168 1,712 ham}
+{2 1,3 1,4 1,7 1,8 1,10 1,13 1,14 1,53 1,69 1,71 1,192 1,232 1,581 1,589 1}
+{51 1,712 ham}
+{24 1,25 1}
+{10 1,24 1,79 1,169 1,307 1,308 1,314 1,712 ham}
+{1 1,4 1,8 1,17 1,20 1,33 1,35 1,39 1,44 1,48 1,76 1,77 1,165 1,172 1,181 1,184 1,338 1,419 1,510 1,548 1}
+{173 1,712 ham}
+{0 1,5 1,9 1,16 1,20 1,145 1,164 1,374 1}
+{712 ham}
+{17 1,32 1,37 1,41 1,59 1,94 1,99 1,100 1,131 1,298 1}
+{51 1,78 1,169 1,178 1,712 ham}
+{}
+{2 1,173 1,712 ham}
+{0 1,4 1,5 1,9 1,16 1,17 1,40 1,64 1,119 1,121 1,125 1,146 1,147 1,227 1,349 1,544 1,619 1}
+{2 1,20 1,46 1,55 1,333 1,712 ham}
+{2 1,3 1,6 1,18 1,25 1,30 1,35 1,117 1,160 1,275 1}
+{36 1,712 ham}
+{2 1,4 1,10 1,17 1,36 1,39 1,50 1,63 1,75 1,97 1,116 1,485 1,487 1,542 1,584 1,662 1,666 1}
+{297 1,312 1,313 1,712 ham}
+{5 1,17 1,20 1,31 1,32 1,36 1,37 1,38 1,59 1,109 1,138 1,155 1,161 1,164 1,225 1,384 1,496 1,497 1,498 1,592 1,643 1,644 1}
+{26 1,43 1,78 1,712 ham}
+{8 1,10 1,54 1,78 1,229 1}
+{20 1,303 1,314 1,712 ham}
+{185 1,413 1}
+{52 1,309 1,712 ham}
+{4 1,24 1,56 1,158 1,371 1,510 1,698 1}
+{2 1,26 1,51 1,78 1,712 ham}
+{1 1,3 1,17 1,20 1,35 1,44 1,48 1,77 1,91 1,122 1,150 1,165 1,172 1,181 1,184 1,472 1,615 1,652 1}
+{712 ham}
+{2 1,4 1,7 1,8 1,10 1,13 1,14 1,18 1,25 1,30 1,57 1,69 1,71 1,111 1,216 1,238 1,524 1,568 1,600 1}
+{117 1,314 1,712 ham}
+{0 1,5 1,9 1,16 1,41 1,51 1,179 1,360 1,415 1}
+{51 1,52 1,174 1,296 1,309 1,327 1,712 ham}
+{0 1,2 1,4 1,9 1,11 1,17 1,18 1,24 1,27 1,40 1,53 1,64 1,134 1,135 1,227 1,231 1,246 1,248 1,251 1,256 1,262 1,289 1,349 1,544 1,619 1}
+{20 1,26 1,43 1,78 1,80 1,108 1,115 1,172 1,294 1,322 1,712 ham}
+{5 1,35 1,66 1,78 1,81 1,84 1,110 1,300 1,301 1,398 1,399 1,400 1,404 1,603 1,609 1,616 1,617 1,679 1,680 1,683 1}
+{164 1,712 ham}
+{2 1,3 1,6 1,62 1,68 1,93 1,96 1,139 1,166 1,228 1,230 1,258 1,402 1,547 1,695 1}
+{17 1,35 1,712 ham}
+{1 1,17 1,20 1,76 1,151 1,624 1}
+{19 1,36 1,42 1,78 1,109 1,318 1,712 ham}
+{1 1,12 1,17 1,19 1,24 1,51 1,76 1,89 1,104 1,113 1,347 1}
+{171 1,712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,17 1,20 1,21 1,22 1,24 1,32 1,36 1,37 1,41 1,44 1,59 1,77 1,94 1,99 1,100 1,131 1,165 1,172 1,298 1,528 1,579 1,643 1,658 1}
+{712 ham}
+{0 1,5 1,9 1,16 1,26 1,35 1}
+{8 1,37 1,39 1,52 1,169 1,171 1,305 1,712 ham}
+{0 1,4 1,5 1,9 1,16 1,40 1,119 1,121 1,125 1,146 1,147 1,621 1}
+{17 1,36 1,712 ham}
+{0 1,5 1,51 1,78 1,173 1,376 1}
+{712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,19 1,20 1,21 1,22 1,24 1,36 1,42 1,44 1,45 1,48 1,62 1,77 1,86 1,139 1,149 1,250 1,253 1,299 1,512 1,594 1,595 1,691 1}
+{173 1,712 ham}
+{2 1,7 1,8 1,10 1,13 1,14 1}
+{24 1,36 1,712 ham}
+{19 1,20 1,36 1,42 1,54 1,80 1,420 1}
+{10 1,24 1,37 1,51 1,79 1,306 1,307 1,308 1,321 1,329 1,712 ham}
+{117 1}
+{20 1,35 1,78 1,80 1,318 1,712 ham}
+{1 1,4 1,12 1,24 1,33 1,123 1,226 1,272 1}
+{51 1,52 1,296 1,712 ham}
+{19 1,80 1,194 1,377 1}
+{35 1,712 ham}
+{2 1,4 1,24 1,56 1,67 1,109 1,120 1,159 1,167 1,199 1,235 1,240 1,397 1,451 1,690 1}
+{17 1,24 1,26 1,36 1,43 1,78 1,113 1,712 ham}
+{7 1,8 1,10 1,20 1,35 1,36 1,37 1,38 1,44 1,46 1,50 1,52 1,116 1,179 1,215 1,334 1,362 1,372 1,468 1,493 1,665 1}
+{712 ham}
+{2 1,20 1,24 1,26 1,43 1,78 1,344 1}
+{46 1,55 1,712 ham}
+{0 1,11 1,28 1,47 1,101 1,117 1,126 1,208 1,211 1,254 1}
+{26 1,43 1,44 1,78 1,305 1,712 ham}
+{2 1,3 1,10 1,18 1,19 1,25 1,30 1,36 1,39 1,42 1,44 1,45 1,62 1,63 1,75 1,78 1,80 1,97 1,108 1,116 1,136 1,137 1,199 1,219 1,220 1,243 1,291 1,302 1,443 1,485 1,487 1,584 1,666 1,670 1,690 1}
+{20 1,35 1,36 1,38 1,45 1,52 1,78 1,176 1,712 ham}
+{1 1,2 1,3 1,7 1,8 1,10 1,13 1,14 1,18 1,20 1,24 1,25 1,30 1,53 1,86 1,136 1,137 1,149 1,206 1,277 1,302 1,303 1,553 1,554 1}
+{712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,18 1,21 1,22 1,24 1,25 1,30 1,33 1,36 1,63 1,116 1,123 1,219 1,220 1,267 1,280 1,670 1}
+{10 1,24 1,79 1,117 1,307 1,308 1,321 1,712 ham}
+{2 1,4 1,7 1,8 1,10 1,13 1,14 1,69 1,71 1,590 1}
+{712 ham}
+{2 1,4 1,35 1,51 1,78 1,109 1,166 1,472 1,543 1}
+{46 1,333 1,712 ham}
+{0 1,2 1,4 1,7 1,8 1,10 1,13 1,14 1,24 1,69 1,71 1,101 1,235 1,240 1,518 1}
+{712 ham}
+{1 1,17 1,190 1,335 1}
+{79 1,303 1,306 1,712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,20 1,21 1,22 1,24 1,44 1,77 1,86 1,91 1,122 1,149 1,150 1,154 1,165 1,172 1,255 1,290 1,512 1,652 1}
+{712 ham}
+{2 1}
+{712 ham}
+{0 1,5 1,35 1,38 1,58 1,368 1,425 1,437 1,439 1,674 1,676 1,677 1}
+{712 ham}
+{35 1,180 1,607 1}
+{26 1,170 1,178 1,310 1,712 ham}
+{2 1,3 1,6 1,17 1,37 1,61 1,102 1,215 1,669 1}
+{712 ham}
+{53 1,192 1,449 1}
+{46 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,17 1,19 1,20 1,21 1,22 1,24 1,36 1,37 1,42 1,44 1,45 1,50 1,61 1,74 1,76 1,78 1,85 1,172 1,179 1,187 1,259 1,336 1,369 1,384 1,387 1,408 1,435 1,438 1,587 1,592 1,596 1,665 1,696 1}
+{25 1,26 1,43 1,52 1,78 1,712 ham}
+{2 1,10 1,75 1,261 1,575 1,639 1}
+{712 ham}
+{20 1,23 1,29 1,34 1,45 1,78 1,80 1,108 1,207 1}
+{17 1,37 1,78 1,79 1,116 1,162 1,295 1,298 1,303 1,712 ham}
+{19 1,51 1,109 1}
+{35 1,51 1,78 1,173 1,712 ham}
+{1 1,17 1,20 1,24 1,37 1,38 1,39 1,80 1,96 1,113 1,151 1,179 1,352 1,491 1,703 1}
+{51 1,78 1,107 1,332 1,712 ham}
+{19 1,24 1,35 1,36 1,41 1,42 1,78 1,157 1,244 1,270 1,454 1}
+{173 1,712 ham}
+{0 1,11 1,36 1,45 1,57 1,68 1,80 1,106 1,111 1,156 1,160 1,166 1,182 1,183 1,191 1,200 1,210 1,223 1,233 1,234 1,237 1,245 1,252 1,278 1,281 1,283 1,292 1,378 1,432 1,547 1}
+{712 ham}
+{1 1,2 1,3 1,6 1,8 1,10 1,36 1,37 1,44 1,61 1,80 1,102 1,528 1,658 1}
+{26 1,43 1,78 1,80 1,108 1,115 1,294 1,322 1,712 ham}
+{19 1,80 1,388 1}
+{78 1,293 1,303 1,304 1,712 ham}
+{5 1,9 1,16 1,20 1,32 1,35 1,36 1,37 1,38 1,52 1,74 1,116 1,141 1,362 1,372 1,488 1,495 1,563 1,569 1,610 1,625 1,653 1,678 1}
+{20 1,26 1,43 1,51 1,78 1,712 ham}
+{1 1,2 1,12 1,15 1,21 1,24 1,60 1,65 1,523 1}
+{10 1,24 1,79 1,307 1,308 1,321 1,712 ham}
+{9 1,11 1,27 1,31 1,138 1,155 1,161 1,164 1,263 1,268 1,286 1}
+{46 1,55 1,712 ham}
+{17 1,32 1,37 1,59 1,94 1,287 1,298 1}
+{51 1,78 1,712 ham}
+{1 1,2 1,8 1,10 1,18 1,19 1,20 1,36 1,39 1,42 1,45 1,51 1,56 1,80 1,85 1,133 1,140 1,148 1,172 1,209 1,250 1,253 1,418 1,486 1,536 1,594 1,595 1,708 1}
+{20 1,26 1,46 1,78 1,712 ham}
+{36 1,38 1,285 1,287 1}
+{24 1,40 1,79 1,712 ham}
+{2 1,17 1,40 1,56 1,64 1,117 1,159 1,163 1,350 1,393 1,620 1,704 1}
+{712 ham}
+{9 1,11 1,27 1,86 1,138 1,155 1,161 1,263 1,268 1,286 1}
+{712 ham}
+{2 1,7 1,8 1,10 1,60 1,65 1}
+{35 1,36 1,51 1,712 ham}
+{1 1,2 1,3 1,6 1,19 1,36 1,42 1,260 1,412 1,426 1,442 1,494 1,588 1}
+{36 1,46 1,55 1,175 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,19 1,21 1,22 1,24 1,35 1,36 1,45 1,92 1,95 1,180 1,386 1,393 1,607 1,704 1}
+{712 ham}
+{1 1,80 1}
+{712 ham}
+{0 1,5 1,127 1,128 1,129 1,132 1}
+{712 ham}
+{23 1,29 1,34 1,78 1,80 1,108 1}
+{712 ham}
+{24 1,36 1,38 1,49 1,51 1,467 1,469 1,675 1}
+{36 1,46 1,712 ham}
+{0 1,5 1,31 1,35 1,368 1,425 1,437 1,439 1,674 1,676 1,677 1}
+{34 1,51 1,316 1,712 ham}
+{4 1,5 1,9 1,16 1,18 1,50 1,53 1,82 1,195 1,257 1}
+{26 1,35 1,37 1,51 1,171 1,712 ham}
+{1 1,19 1,25 1,35 1,36 1,42 1,53 1,85 1,117 1,163 1,187 1,242 1,244 1,270 1,403 1,685 1}
+{2 1,26 1,35 1,712 ham}
+{26 1,36 1,109 1,178 1}
+{51 1,52 1,174 1,296 1,309 1,327 1,712 ham}
+{8 1,19 1,23 1,24 1,26 1,29 1,34 1,36 1,42 1,43 1,70 1,73 1,78 1,80 1,108 1,205 1,293 1,304 1}
+{80 1,712 ham}
+{51 1,78 1,171 1}
+{78 1,712 ham}
+{19 1,23 1,29 1,34 1,36 1,42 1,45 1,70 1,73 1,78 1,80 1,108 1,205 1,207 1}
+{712 ham}
+{36 1,45 1,80 1,90 1,213 1}
+{46 1,712 ham}
+{3 1,7 1,8 1,10 1,24 1,277 1,499 1}
+{20 1,35 1,52 1,80 1,169 1,326 1,712 ham}
+{8 1,10 1,19 1,24 1,35 1,76 1,104 1,133 1,140 1,148 1,232 1}
+{35 1,36 1,45 1,712 ham}
+{2 1,3 1,4 1,6 1,8 1,10 1,45 1,75 1,142 1,212 1,264 1}
+{173 1,712 ham}
+{1 1,2 1,3 1,4 1,7 1,8 1,10 1,13 1,14 1,20 1,33 1,35 1,36 1,40 1,44 1,45 1,58 1,67 1,80 1,90 1,112 1,120 1,196 1,212 1,213 1,214 1,217 1,218 1,241 1,269 1,273 1,291 1,355 1,359 1,361 1,364 1,365 1,366 1,367 1,370 1,390 1,391 1,394 1,395 1,396 1,406 1,409 1,410 1,414 1,416 1,417 1,421 1,422 1,424 1,450 1,462 1,463 1,474 1,475 1,476 1,477 1,478 1,479 1,482 1,483 1,500 1,504 1,507 1,513 1,516 1,517 1,525 1,534 1,535 1,545 1,549 1,550 1,551 1,552 1,562 1,564 1,566 1,571 1,572 1,573 1,574 1,578 1,580 1,582 1,598 1,599 1,601 1,602 1,608 1,622 1,623 1,627 1,630 1,631 1,633 1,634 1,650 1,659 1,660 1,661 1,682 1,684 1,692 1,705 1,707 1,710 1}
+{51 1,712 ham}
+{0 1,9 1,11 1,27 1,28 1,35 1,41 1,47 1,83 1,87 1,105 1}
+{112 1,712 ham}
+{35 1,36 1,38 1,45 1,285 1,448 1,565 1}
+{171 1,712 ham}
+{0 1,9 1,11 1,20 1,24 1,27 1,134 1,135 1}
+{36 1,46 1,55 1,175 1,712 ham}
+{0 1,9 1,36 1,54 1}
+{162 1,295 1,303 1,712 ham}
+{2 1,3 1,6 1,38 1,48 1,143 1,168 1,484 1,489 1,657 1}
+{712 ham}
+{0 1,5 1,127 1,128 1,129 1,132 1}
+{51 1,78 1,80 1,304 1,325 1,712 ham}
+{23 1,29 1,34 1,38 1,78 1,80 1,108 1,168 1,188 1,189 1,203 1,455 1,508 1,637 1}
+{10 1,24 1,79 1,307 1,308 1,321 1,329 1,712 ham}
+{20 1,24 1,38 1,54 1,79 1,112 1,179 1,299 1,411 1,467 1,515 1,645 1,656 1}
+{78 1,712 ham}
+{19 1,20 1,24 1,26 1,36 1,42 1,43 1,46 1,51 1,78 1,109 1,117 1,167 1,236 1,247 1,279 1,358 1,375 1,381 1,383 1,385 1,434 1,441 1,461 1,473 1,501 1,502 1,509 1,520 1,531 1,537 1,538 1,546 1,555 1,558 1,559 1,636 1,638 1,641 1,646 1,655 1,663 1}
+{173 1,712 ham}
+{0 1,2 1,7 1,8 1,10 1,11 1,13 1,14 1,35 1,36 1,39 1,66 1,103 1,106 1,111 1,124 1,144 1,193 1,345 1,348 1,427 1,456 1,458 1,460 1,471 1,503 1,505 1,506 1,514 1,539 1,540 1,556 1,557 1,591 1,605 1,613 1,614 1,618 1,629 1,654 1,672 1,686 1,687 1,688 1}
+{26 1,43 1,78 1,712 ham}
+{0 1,2 1,4 1,11 1,28 1,41 1,47 1,80 1,117 1,126 1,208 1,211 1,238 1,254 1,418 1}
+{712 ham}
+{1 1,2 1,3 1,6 1,18 1,20 1,35 1,36 1,53 1,57 1,62 1,63 1,68 1,96 1,116 1,139 1,172 1,201 1,204 1,209 1,219 1,220 1,242 1,260 1,266 1,444 1,457 1,459 1,521 1,522 1,583 1,597 1,604 1}
+{19 1,36 1,42 1,109 1,712 ham}
+{185 1}
+{26 1,43 1,78 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,92 1,95 1,153 1,224 1}
+{20 1,78 1,80 1,108 1,172 1,173 1,712 ham}
+{80 1,130 1}
+{35 1,78 1,79 1,162 1,177 1,712 ham}
+{5 1,20 1,35 1,66 1,78 1,81 1,84 1,110 1,300 1,301 1,398 1,399 1,400 1,404 1,603 1,609 1,612 1,616 1,617 1,679 1,680 1,683 1}
+{46 1,712 ham}
+{2 1,5 1,9 1,16 1,20 1,32 1,54 1,249 1,488 1,495 1,563 1,569 1,626 1,649 1,678 1}
+{26 1,43 1,51 1,78 1,712 ham}
+{2 1,3 1,7 1,8 1,10 1,13 1,14 1,17 1,19 1,20 1,24 1,25 1,36 1,37 1,38 1,50 1,53 1,62 1,67 1,85 1,202 1,243 1,259 1,261 1,285 1,339 1,389 1,464 1,530 1,576 1,586 1,662 1,664 1,667 1}
+{712 ham}
+{}
+{2 1,26 1,36 1,37 1,38 1,43 1,46 1,51 1,53 1,55 1,78 1,114 1,116 1,118 1,175 1,305 1,311 1,328 1,712 ham}
+{2 1,3 1,7 1,8 1,10 1,13 1,14 1,38 1,136 1,137 1,143 1,206 1,302 1}
+{712 ham}
+{3 1,4 1,7 1,8 1,10 1,20 1,35 1,36 1,37 1,49 1,50 1,57 1,141 1,221 1,282 1,284 1,345 1,348 1,378 1,427 1,471 1,527 1,576 1,586 1,610 1,618 1,629 1}
+{35 1,78 1,712 ham}
+{1 1,2 1,3 1,4 1,7 1,8 1,10 1,13 1,14 1,20 1,33 1,35 1,36 1,40 1,44 1,45 1,58 1,67 1,80 1,90 1,112 1,120 1,196 1,212 1,213 1,214 1,217 1,218 1,241 1,269 1,273 1,291 1,355 1,359 1,361 1,364 1,365 1,366 1,367 1,370 1,390 1,391 1,394 1,395 1,396 1,406 1,409 1,410 1,414 1,416 1,417 1,421 1,422 1,424 1,450 1,462 1,463 1,474 1,475 1,476 1,477 1,478 1,479 1,482 1,483 1,500 1,504 1,507 1,513 1,516 1,517 1,525 1,534 1,535 1,545 1,549 1,550 1,551 1,552 1,562 1,564 1,566 1,571 1,572 1,573 1,574 1,578 1,580 1,582 1,598 1,599 1,601 1,602 1,608 1,622 1,623 1,627 1,630 1,631 1,633 1,634 1,650 1,659 1,660 1,661 1,682 1,684 1,692 1,705 1,707 1,710 1}
+{20 1,46 1,51 1,55 1,78 1,80 1,114 1,317 1,323 1,712 ham}
+{0 1,11 1,28 1,31 1,38 1,68 1,106 1,111 1,145 1,156 1,182 1,183 1,191 1,200 1,210 1,223 1,233 1,234 1,237 1,245 1,252 1,278 1,281 1,283 1,292 1,379 1,380 1,401 1,445 1,446 1,447 1,511 1,519 1,606 1,644 1,648 1}
+{17 1,26 1,46 1,311 1,712 ham}
+{0 1,9 1,11 1,27 1,28 1,47 1,83 1,87 1,105 1,186 1,197 1,239 1}
+{712 ham}
+{4 1,18 1,19 1,20 1,24 1,25 1,30 1,35 1,36 1,42 1,78 1,80 1,85 1,108 1,187 1,231 1,244 1,259 1,270 1,299 1,339 1,369 1,433 1,565 1,681 1,691 1}
+{19 1,78 1,171 1,712 ham}
+{2 1,7 1,8 1,10 1,20 1,26 1,35 1,38 1,43 1,51 1,57 1,78 1,80 1,93 1,109 1,204 1,423 1}
+{26 1,46 1,55 1,115 1,712 ham}
+{}
+{712 ham}
+{1 1,2 1,3 1,4 1,6 1,33 1,260 1,457 1,459 1}
+{46 1,55 1,107 1,311 1,712 ham}
+{2 1,17 1,32 1,39 1,54 1,59 1,97 1,249 1,532 1}
+{26 1,43 1,78 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,21 1,22 1,24 1,67 1,93 1,499 1,526 1,593 1,668 1}
+{78 1,80 1,108 1,712 ham}
+{36 1,195 1}
+{10 1,24 1,79 1,307 1,308 1,321 1,329 1,712 ham}
+{4 1,5 1,9 1,16 1,17 1,20 1,24 1,41 1,53 1,167 1,179 1,354 1,373 1,428 1,480 1,533 1}
+{712 ham}
+{2 1,4 1,35 1,37 1,48 1,60 1,61 1,65 1,615 1}
+{54 1,78 1,712 ham}
+{0 1,4 1,5 1,9 1,16 1,24 1,35 1,40 1,44 1,45 1,49 1,51 1,119 1,121 1,125 1,146 1,147 1,171 1,227 1,271 1,336 1,340 1,360 1,415 1,635 1}
+{24 1,26 1,35 1,51 1,52 1,328 1,712 ham}
+{0 1,5 1,31 1}
+{712 ham}
+{1 1,2 1,153 1}
+{712 ham}
+{0 1,5 1,9 1,16 1,41 1,193 1}
+{26 1,178 1,310 1,319 1,712 ham}
+{80 1,340 1}
+{2 1,17 1,20 1,26 1,43 1,46 1,78 1,115 1,118 1,294 1,712 ham}
+{163 1}
+{46 1,712 ham}
+{0 1,5 1,9 1,16 1,39 1}
+{10 1,20 1,24 1,40 1,79 1,172 1,712 ham}
+{1 1,7 1,8 1,10 1,20 1,24 1,38 1,86 1,149 1,553 1,554 1}
+{712 ham}
+{7 1,8 1,10 1}
+{78 1,712 ham}
+{2 1,3 1,7 1,8 1,10 1,13 1,14 1,62 1,116 1,136 1,137 1,206 1,302 1,443 1}
+{712 ham}
+{0 1,5 1,17 1,40 1,64 1,625 1}
+{51 1,171 1,712 ham}
+{25 1}
+{26 1,38 1,51 1,52 1,171 1,177 1,712 ham}
+{17 1,32 1,37 1,59 1,94 1,99 1,100 1,131 1,298 1}
+{26 1,41 1,51 1,78 1,117 1,170 1,178 1,712 ham}
+{2 1,60 1,65 1,160 1,275 1,466 1}
+{2 1,51 1,78 1,80 1,303 1,304 1,325 1,712 ham}
+{20 1,35 1,78 1,628 1}
+{712 ham}
+{46 1,55 1}
+{17 1,712 ham}
+{0 1,2 1,11 1,20 1,31 1,35 1,37 1,58 1,72 1,117 1,126 1,145 1,156 1,356 1,673 1,706 1}
+{712 ham}
+{25 1,41 1,80 1,198 1,357 1}
+{26 1,712 ham}
+{1 1,12 1,24 1,226 1,272 1}
+{19 1,36 1,42 1,109 1,712 ham}
+{72 1}
+{2 1,51 1,52 1,78 1,712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,17 1,18 1,19 1,20 1,21 1,22 1,24 1,31 1,35 1,37 1,54 1,61 1,62 1,76 1,102 1,104 1,109 1,139 1,166 1,271 1,277 1,303 1}
+{178 1,712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,21 1,22 1,24 1,33 1,53 1,123 1,192 1,581 1,589 1}
+{46 1,173 1,712 ham}
+{2 1,7 1,8 1,10 1,13 1,14 1,20 1,57 1,282 1,284 1,524 1,568 1,699 1}
+{712 ham}
+{0 1,2 1,11 1,32 1,37 1,53 1,99 1,100 1,675 1}
+{2 1,51 1,712 ham}
+{0 1,2 1,4 1,5 1,9 1,16 1,20 1,454 1,628 1}
+{293 1,712 ham}
+{1 1,12 1,17 1,24 1,89 1,113 1}
+{304 1,325 1,712 ham}
+{19 1,23 1,29 1,34 1,70 1,73 1,78 1,80 1,108 1,388 1}
+{297 1,312 1,313 1,712 ham}
+{2 1,26 1,36 1,261 1,428 1,577 1,694 1}
+{26 1,163 1,712 ham}
+{0 1,2 1,7 1,8 1,10 1,11 1,24 1,35 1,37 1,38 1,51 1,52 1,58 1,66 1,78 1,81 1,84 1,103 1,110 1,124 1,215 1,356 1,440 1,464 1,470 1,481 1,611 1,632 1,640 1,689 1,697 1}
+{57 1,712 ham}
+{8 1,10 1,17 1,117 1,279 1,346 1,561 1}
+{20 1,36 1,37 1,162 1,293 1,295 1,303 1,712 ham}
+{0 1,5 1,28 1,127 1,128 1,129 1,132 1}
+{24 1,35 1,52 1,53 1,78 1,116 1,712 ham}
+{1 1,2 1,3 1,6 1,153 1,224 1}
+{24 1,26 1,35 1,36 1,111 1,299 1,712 ham}
+{2 1,4 1,60 1,65 1,93 1,166 1,228 1,230 1,543 1}
+{712 ham}
+{1 1,2 1,3 1,4 1,6 1,12 1,15 1,21 1,22 1,24 1,33 1,36 1,39 1,63 1,67 1,93 1,97 1,116 1,123 1,166 1,228 1,230 1,493 1,526 1,532 1,593 1,668 1}
+{712 ham}
+{}
+{51 1,78 1,317 1,323 1,712 ham}
+{18 1,25 1,30 1}
+{712 ham}
+{32 1,80 1}
+{712 ham}
+{10 1,17 1,575 1}
+{2 1,17 1,20 1,80 1,712 ham}
+{2 1,3 1,6 1,10 1,17 1,20 1,45 1,75 1,76 1,91 1,181 1,184 1,255 1,264 1,338 1,419 1,624 1}
+{303 1,712 ham}
+{2 1,8 1,10 1,54 1,269 1,334 1,448 1,561 1}
+{20 1,44 1,77 1,78 1,165 1,172 1,712 ham}
+{72 1,178 1,430 1}
+{26 1,115 1,712 ham}
+{1 1,2 1,17 1,18 1,19 1,20 1,24 1,25 1,30 1,36 1,39 1,40 1,42 1,44 1,46 1,64 1,97 1,172 1,179 1,304 1,305 1,335 1,486 1,577 1,694 1,700 1}
+{26 1,35 1,36 1,38 1,78 1,80 1,171 1,176 1,319 1,712 ham}
+{2 1,4 1,7 1,8 1,10 1,13 1,14 1,18 1,69 1,71 1,152 1,216 1,600 1,708 1}
+{26 1,36 1,46 1,115 1,712 ham}
+{19 1,20 1,24 1,35 1,36 1,42 1,56 1,78 1,109 1,157 1,201 1,236 1,243 1,247 1,266 1,373 1,405 1}
+{37 1,51 1,712 ham}
+{7 1,8 1,10 1,49 1,88 1,98 1,152 1}
+{24 1,35 1,712 ham}
+{35 1,116 1}
+{712 ham}
+{0 1,9 1,11 1,20 1,24 1,27 1,35 1,57 1,66 1,103 1,110 1,112 1,124 1,164 1,374 1,611 1,693 1,698 1,701 1,709 1}
+{712 ham}
+{0 1,11 1,28 1,41 1,47 1,101 1,117 1,126 1,208 1,211 1,254 1}
+{79 1,162 1,295 1,303 1,306 1,712 ham}
+{0 1,5 1,127 1,128 1,129 1,132 1}
+{26 1,43 1,78 1,80 1,108 1,322 1,712 ham}
+{1 1,4 1,17 1,48 1,74 1,142 1,163 1,190 1,199 1,222 1,265 1,451 1,647 1}
+{35 1,51 1,171 1,712 ham}
+{20 1,38 1,56 1,79 1,116 1,168 1,702 1}
+{17 1,20 1,26 1,46 1,712 ham}
+{2 1,3 1,4 1,6 1,15 1,20 1,22 1,24 1,35 1,36 1,39 1,46 1,51 1,55 1,63 1,92 1,95 1,116 1,117 1,130 1,142 1,235 1,240 1,267 1,280 1,412 1,436 1,490 1,518 1}
+{26 1,43 1,78 1,80 1,108 1,115 1,294 1,322 1,712 ham}
+{0 1,5 1,9 1,16 1,179 1}
+{78 1,79 1,117 1,712 ham}
+{19 1,76 1,109 1}
+{26 1,43 1,78 1,712 ham}
+{23 1,29 1,34 1,78 1,80 1,108 1}
+{35 1,52 1,109 1,171 1,712 ham}
+{1 1,12 1,17 1,24 1,35 1,89 1,113 1,144 1,154 1,669 1}
+{712 ham}
+{23 1,29 1,34 1,38 1,78 1,80 1,108 1,168 1,188 1,189 1,203 1,455 1,508 1,637 1}
+{36 1,712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,21 1,22 1,24 1,288 1}
+{51 1,52 1,296 1,297 1,312 1,313 1,712 ham}
+{1 1,74 1,163 1,222 1,265 1,407 1,429 1,647 1}
+{20 1,24 1,25 1,78 1,167 1,176 1,303 1,712 ham}
+{0 1,2 1,4 1,9 1,11 1,17 1,27 1,134 1,135 1,246 1,248 1,251 1,256 1,262 1,289 1}
+{17 1,20 1,24 1,116 1,315 1,712 ham}
+{0 1,4 1,5 1,8 1,20 1,36 1,45 1,57 1,116 1,198 1,214 1,217 1,218 1,241 1}
+{332 1,712 ham}
+{19 1,36 1,42 1,80 1,90 1,382 1,397 1}
+{173 1,178 1,319 1,712 ham}
+{1 1,209 1}
+{51 1,305 1,712 ham}
+{18 1,25 1,30 1}
+{305 1,712 ham}
+{1 1,2 1,3 1,6 1,12 1,15 1,21 1,22 1,24 1,288 1}
+{80 1,712 ham}
+{2 1,3 1,6 1,37 1,51 1,61 1,102 1}
+{56 1,331 1,712 ham}
+{20 1,26 1,111 1,179 1,515 1,548 1}
+{36 1,178 1,712 ham}
+{2 1,4 1,7 1,8 1,10 1,13 1,14 1,69 1,71 1}
+{78 1,79 1,712 ham}
+{0 1,5 1,433 1}
+{3 1,302 1,712 ham}
+{0 1,2 1,4 1,5 1,9 1,16 1,17 1,38 1,51 1,82 1,276 1,287 1,352 1,465 1,681 1}
+{38 1,116 1,712 ham}
+{0 1,2 1,4 1,5 1,9 1,16 1,24 1,35 1,36 1,40 1,63 1,66 1,110 1,116 1,119 1,121 1,125 1,142 1,146 1,147 1,157 1,167 1,267 1,280 1,299 1,300 1,301 1,341 1,371 1,587 1,671 1,711 1}
+{20 1,107 1,712 ham}
+{2 1,19 1,20 1,44 1,56 1,77 1,159 1,274 1,452 1,453 1}
+{107 1,178 1,712 ham}
+{0 1,5 1,8 1,9 1,10 1,16 1,20 1,31 1,35 1,38 1,39 1,66 1,81 1,84 1,101 1,103 1,110 1,133 1,140 1,148 1,300 1,301 1,470 1,490 1,640 1}
+{712 ham}
+{120 1,258 1}
+{26 1,35 1,51 1,78 1,80 1,712 ham}
+{0 1,5 1,8 1,10 1,133 1,140 1,148 1,229 1,632 1}
+{51 1,171 1,712 ham}
+{0 1,2 1,3 1,6 1,7 1,8 1,10 1,11 1,13 1,14 1,35 1,36 1,37 1,39 1,61 1,66 1,102 1,106 1,111 1,124 1,141 1,144 1,193 1,456 1,458 1,460 1,491 1,503 1,505 1,506 1,514 1,539 1,540 1,556 1,557 1,591 1,605 1,613 1,614 1,654 1,672 1,686 1,687 1,688 1}
+{17 1,24 1,26 1,43 1,78 1,712 ham}
+{2 1,4 1,60 1,65 1,160 1,275 1,466 1}
+{79 1,712 ham}
+{}
+{712 ham}
+{0 1,9 1,11 1,27 1,28 1,47 1,58 1,83 1,87 1,105 1,186 1,197 1,239 1}
+{293 1,712 ham}
+{4 1,5 1,9 1,16 1,37 1,58 1,673 1,706 1}
+{712 ham}
+{0 1,11 1,440 1,481 1,689 1,697 1}
+{712 ham}
+{8 1,17 1,39 1,40 1,56 1,64 1,96 1,159 1,229 1,258 1,346 1,402 1,695 1}
+{51 1,712 ham}
+{35 1,117 1,163 1,403 1,685 1}
+{35 1,51 1,107 1,712 ham}
+{}
+{36 1,46 1,55 1,175 1,712 ham}
+{173 1,178 1,712 ham}
+{46 1,55 1,712 ham}
+{24 1,37 1,51 1,52 1,78 1,79 1,712 ham}
+{712 ham}
+{80 1,324 1,326 1,712 ham}
+{78 1,117 1,318 1,712 ham}
+{20 1,179 1,712 ham}
+{8 1,26 1,37 1,43 1,78 1,712 ham}
+{36 1,712 ham}
+{24 1,46 1,78 1,293 1,320 1,333 1,712 ham}
+{51 1,712 ham}
+{26 1,169 1,170 1,178 1,315 1,712 ham}
+{712 ham}
+{712 ham}
+{24 1,51 1,78 1,79 1,317 1,323 1,712 ham}
+{712 ham}
+{117 1,163 1,712 ham}
+{51 1,52 1,174 1,712 ham}
+{712 ham}
+{712 ham}
+{52 1,712 ham}
+{51 1,78 1,712 ham}
+{51 1,52 1,296 1,297 1,312 1,313 1,712 ham}
+{46 1,712 ham}
+{35 1,712 ham}
+{712 ham}
+{24 1,78 1,79 1,162 1,712 ham}
+{46 1,55 1,712 ham}
+{712 ham}
+{26 1,712 ham}
+{316 1,712 ham}
+{26 1,170 1,178 1,310 1,712 ham}
+{51 1,171 1,331 1,712 ham}
+{26 1,38 1,170 1,178 1,712 ham}
+{24 1,36 1,712 ham}
+{20 1,171 1,712 ham}
+{2 1,20 1,35 1,51 1,171 1,326 1,712 ham}
+{712 ham}
+{4 1,712 ham}
+{712 ham}
+{712 ham}
+{26 1,43 1,78 1,115 1,294 1,712 ham}
+{51 1,52 1,174 1,296 1,309 1,327 1,712 ham}
+{20 1,37 1,52 1,78 1,712 ham}
+{303 1,712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{46 1,333 1,712 ham}
+{712 ham}
+{20 1,293 1,316 1,712 ham}
+{20 1,24 1,169 1,171 1,712 ham}
+{712 ham}
+{10 1,24 1,79 1,712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{26 1,115 1,170 1,178 1,712 ham}
+{17 1,20 1,78 1,712 ham}
+{712 ham}
+{51 1,712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{26 1,170 1,178 1,310 1,712 ham}
+{51 1,712 ham}
+{46 1,333 1,712 ham}
+{10 1,19 1,20 1,24 1,78 1,293 1,712 ham}
+{2 1,51 1,303 1,325 1,332 1,712 ham}
+{38 1,178 1,712 ham}
+{26 1,43 1,46 1,55 1,78 1,114 1,118 1,328 1,712 ham}
+{80 1,712 ham}
+{171 1,712 ham}
+{26 1,170 1,178 1,712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{78 1,162 1,712 ham}
+{173 1,712 ham}
+{36 1,46 1,712 ham}
+{80 1,712 ham}
+{19 1,35 1,36 1,42 1,51 1,78 1,712 ham}
+{178 1,310 1,712 ham}
+{20 1,51 1,712 ham}
+{20 1,173 1,305 1,712 ham}
+{19 1,24 1,44 1,78 1,162 1,295 1,303 1,712 ham}
+{26 1,43 1,51 1,78 1,712 ham}
+{52 1,176 1,712 ham}
+{26 1,43 1,78 1,79 1,116 1,712 ham}
+{8 1,24 1,36 1,37 1,38 1,51 1,80 1,169 1,712 ham}
+{712 ham}
+{46 1,712 ham}
+{2 1,24 1,712 ham}
+{177 1,712 ham}
+{79 1,331 1,712 ham}
+{26 1,43 1,51 1,78 1,712 ham}
+{19 1,712 ham}
+{330 1,712 ham}
+{78 1,314 1,712 ham}
+{51 1,178 1,712 ham}
+{20 1,712 ham}
+{712 ham}
+{78 1,79 1,306 1,712 ham}
+{46 1,55 1,712 ham}
+{2 1,26 1,43 1,46 1,78 1,118 1,315 1,328 1,712 ham}
+{46 1,78 1,173 1,712 ham}
+{2 1,26 1,46 1,51 1,78 1,712 ham}
+{712 ham}
+{78 1,712 ham}
+{712 ham}
+{80 1,712 ham}
+{178 1,293 1,316 1,712 ham}
+{24 1,36 1,76 1,320 1,712 ham}
+{46 1,51 1,712 ham}
+{51 1,78 1,178 1,304 1,712 ham}
+{38 1,78 1,304 1,712 ham}
+{38 1,78 1,162 1,295 1,303 1,712 ham}
+{51 1,78 1,107 1,174 1,309 1,327 1,712 ham}
+{8 1,20 1,26 1,43 1,51 1,78 1,169 1,171 1,176 1,712 ham}
+{24 1,51 1,78 1,320 1,712 ham}
+{712 ham}
+{38 1,712 ham}
+{26 1,170 1,176 1,178 1,293 1,305 1,712 ham}
+{24 1,26 1,36 1,43 1,45 1,51 1,78 1,712 ham}
+{24 1,51 1,162 1,712 ham}
+{78 1,80 1,324 1,712 ham}
+{712 ham}
+{20 1,78 1,171 1,179 1,326 1,330 1,712 ham}
+{712 ham}
+{712 ham}
+{20 1,46 1,78 1,172 1,293 1,304 1,305 1,712 ham}
+{330 1,712 ham}
+{24 1,79 1,306 1,712 ham}
+{20 1,46 1,55 1,107 1,712 ham}
+{26 1,43 1,46 1,55 1,78 1,114 1,118 1,328 1,712 ham}
+{712 ham}
+{2 1,36 1,166 1,712 ham}
+{51 1,712 ham}
+{712 ham}
+{26 1,712 ham}
+{79 1,712 ham}
+{173 1,712 ham}
+{712 ham}
+{24 1,78 1,162 1,314 1,712 ham}
+{24 1,35 1,51 1,78 1,712 ham}
+{107 1,712 ham}
+{52 1,712 ham}
+{26 1,43 1,51 1,78 1,712 ham}
+{712 ham}
+{177 1,712 ham}
+{52 1,712 ham}
+{332 1,712 ham}
+{712 ham}
+{117 1,163 1,712 ham}
+{51 1,171 1,712 ham}
+{51 1,52 1,712 ham}
+{46 1,51 1,712 ham}
+{178 1,315 1,712 ham}
+{712 ham}
+{35 1,52 1,79 1,162 1,295 1,303 1,712 ham}
+{52 1,80 1,712 ham}
+{712 ham}
+{38 1,712 ham}
+{52 1,297 1,324 1,712 ham}
+{18 1,36 1,45 1,712 ham}
+{46 1,55 1,311 1,712 ham}
+{2 1,51 1,78 1,315 1,712 ham}
+{51 1,178 1,712 ham}
+{37 1,174 1,712 ham}
+{173 1,178 1,712 ham}
+{26 1,43 1,51 1,78 1,712 ham}
+{26 1,43 1,46 1,55 1,78 1,114 1,118 1,712 ham}
+{712 ham}
+{78 1,80 1,108 1,712 ham}
+{305 1,712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{712 ham}
+{19 1,36 1,42 1,78 1,109 1,162 1,314 1,712 ham}
+{17 1,36 1,46 1,55 1,76 1,109 1,175 1,712 ham}
+{712 ham}
+{24 1,51 1,78 1,293 1,317 1,323 1,712 ham}
+{178 1,712 ham}
+{26 1,43 1,51 1,52 1,78 1,305 1,712 ham}
+{78 1,332 1,712 ham}
+{712 ham}
+{712 ham}
+{37 1,52 1,712 ham}
+{107 1,712 ham}
+{78 1,117 1,318 1,712 ham}
+{46 1,55 1,78 1,114 1,173 1,712 ham}
+{712 ham}
+{178 1,310 1,712 ham}
+{36 1,44 1,46 1,55 1,175 1,712 ham}
+{26 1,43 1,51 1,78 1,80 1,712 ham}
+{79 1,116 1,303 1,712 ham}
+{51 1,78 1,317 1,323 1,712 ham}
+{712 ham}
+{46 1,55 1,712 ham}
+{19 1,24 1,35 1,36 1,42 1,51 1,52 1,107 1,320 1,712 ham}
+{2 1,51 1,52 1,78 1,80 1,108 1,712 ham}
+{26 1,43 1,78 1,115 1,294 1,712 ham}
+{712 ham}
+{80 1,712 ham}
+{26 1,43 1,46 1,55 1,78 1,114 1,115 1,118 1,294 1,712 ham}
+{19 1,26 1,45 1,78 1,80 1,712 ham}
+{712 ham}
+{712 ham}
+{36 1,46 1,55 1,175 1,712 ham}
+{80 1,171 1,174 1,326 1,712 ham}
+{20 1,26 1,43 1,78 1,712 ham}
+{51 1,78 1,712 ham}
+{26 1,712 ham}
+{712 ham}
+{312 1,313 1,712 ham}
+{35 1,177 1,712 ham}
+{8 1,26 1,43 1,51 1,78 1,304 1,305 1,329 1,712 ham}
+{20 1,39 1,80 1,169 1,712 ham}
+{20 1,26 1,43 1,46 1,55 1,78 1,114 1,118 1,319 1,712 ham}
+{712 ham}
+{712 ham}
+{78 1,80 1,712 ham}
+{2 1,24 1,80 1,712 ham}
+{20 1,26 1,35 1,80 1,172 1,712 ham}
+{712 ham}
+{36 1,46 1,55 1,175 1,712 ham}
+{712 ham}
