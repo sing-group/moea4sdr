@@ -22,8 +22,8 @@ The configuration contains 2 parameters (minimun generalization steps and maximu
 The maximum generalization steps parameter should be setted to a value greater than the minum generalization value. 
 
 This parameters can be configured in two forms:
-1- Using standard command line parameters. i.e. ```java -jar target/JMetalBdp4j-1.0-SNAPSHOT.jar <lowest> <highest>```. This form of configuration has priority against the remaining ones.
-2- Using the properties file cfg.properties and stablishing MIN_BOUND and MAX_BOUND paramters
+1. Using standard command line parameters. i.e. ```java -jar target/JMetalBdp4j-1.0-SNAPSHOT.jar <lowest> <highest>```. This form of configuration has priority against the remaining ones.
+2. Using the properties file cfg.properties and stablishing MIN_BOUND and MAX_BOUND paramters
 
 ## Running
 From the main folder of the project execute the following command:
@@ -31,3 +31,12 @@ From the main folder of the project execute the following command:
 ```
 java -jar target/JMetalBdp4j-1.0-SNAPSHOT.jar
 ```
+
+If you want to speficy command-line parameters, please use the following syntax:
+```
+java -jar target/JMetalBdp4j-1.0-SNAPSHOT.jar <lowest> <highest>
+```
+
+## Credits
+
+This file is part of the work developed by Iñaki Vélez in this Ph.D. thesis.
