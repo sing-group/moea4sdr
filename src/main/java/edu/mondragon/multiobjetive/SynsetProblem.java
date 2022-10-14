@@ -18,7 +18,20 @@ public class SynsetProblem extends AbstractIntegerProblem {
     private Dataset clonedDataset;
     DatosOriginales datosOriginales;
 
-    public SynsetProblem() {
+    public static final int DEFAULT_MIN_GENERALIZATION=0;
+    public static final int DEFAULT_MAX_GENERALIZATION=2;
+
+    /**
+     * Build the problem using the default bounds for generalization
+     */
+    public SynsetProblem(){
+        this(DEFAULT_MIN_GENERALIZATION,DEFAULT_MAX_GENERALIZATION);
+    }
+
+    /**
+     * Build the problem using specific maximum and minimum bounds for generalization
+     */
+    public SynsetProblem(int minGeneralization, int maxGeneralization) {
         try {
 
             datosOriginales = new DatosOriginales();
@@ -45,8 +58,8 @@ public class SynsetProblem extends AbstractIntegerProblem {
             List<Integer> upperLimit = new ArrayList<>(/*getNumberOfVariables()*/);
 
             for (int i = 0; i < getNumberOfVariables(); i++) {
-                lowerLimit.add(0);
-                upperLimit.add(1); //########### Linea modificada ###############3
+                lowerLimit.add(minGeneralization);
+                upperLimit.add(maxGeneralization); //########### Linea modificada ###############3
                 //Antes upperLimit.add(5);
             }
 

@@ -1,10 +1,13 @@
 package edu.mondragon.multiobjetive;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Properties;
 
 import org.uma.jmetal.algorithm.Algorithm;
 import org.uma.jmetal.algorithm.multiobjective.nsgaii.NSGAIIBuilder;
@@ -25,7 +28,7 @@ import org.uma.jmetal.util.experiment.util.ExperimentProblem;
 
 public class SynsetStudy {
 
-    private static final int INDEPENDENT_RUNS = 25; //Hay que poner 25
+    private static final int INDEPENDENT_RUNS = 25; 
 
     public static void main(String[] args) throws IOException {
         //Añadimos codigo para una recogida de tiempos
@@ -34,7 +37,41 @@ public class SynsetStudy {
         String experimentBaseDirectory = "experimentBaseDirectory";
 
         List<ExperimentProblem<IntegerSolution>> problemList = new ArrayList<>();
-        problemList.add(new ExperimentProblem<>(new SynsetProblem()));
+
+
+
+        SynsetProblem s=null;
+        
+        if (args.length==3) {
+            try {
+                int min=new Integer(args[1]);
+                int max=new Integer(args[2]);
+                s=new SynsetProblem(min, max);
+            } catch( Exception e ) {
+
+            }
+        }
+
+        File cfgFile=new File("cfg.properties");
+        if (s==null && cfgFile.exists()) {
+            Properties cfg=new Properties();
+            try{
+                cfg.load(new FileInputStream(cfgFile));
+
+                int min=new Integer(cfg.getProperty("MIN_BOUND"));
+                int max=new Integer(cfg.getProperty("MAX_BOUND"));
+
+                s=new SynsetProblem(min, max);
+            } catch( Exception e ) {
+
+            }
+        }
+
+        if (s==null){
+            s=new SynsetProblem();
+        }
+
+        problemList.add(new ExperimentProblem<>(s));
 
         List<ExperimentAlgorithm<IntegerSolution, List<IntegerSolution>>> algorithmList
                 = configureAlgorithmList(problemList);
