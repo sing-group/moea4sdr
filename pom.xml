@@ -188,7 +188,8 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>multiobjetive.org.uma.jmetal.problem.multiobjetive.SynsetStudy</mainClass>
+                            <!--<mainClass>multiobjetive.org.uma.jmetal.problem.multiobjetive.SynsetStudy</mainClass>-->
+                            <mainClass>edu.mondragon.multiobjetive.SynsetStudy</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
